@@ -1,6 +1,6 @@
 {
-  "name": "NutriTrack by Kuzo",
-  "description": "A food tracking app that helps users monitor their daily eating habits, track calorie intake, and make healthier food choices using AI-powered insights and a smart meal scanner.",
+  "name": "Nourish by Kuzo",
+  "description": "A food tracking app that helps users monitor their daily eating habits, track calorie intake, and make healthier food choices using a smart meal scanner.",
   "requestFramePermissions": [
     "camera"
   ]
